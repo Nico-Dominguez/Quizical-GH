@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[product-screenshot] 
+[product-screenshot] 
 
 <a href="https://quizical-nd.netlify.app/">View Live</a>
 
