@@ -68,7 +68,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]] (https://quizical-nd.netlify.app/)
+[[product-screenshot] 
+
+<a href="https://quizical-nd.netlify.app/">View Live</a>
 
 This simple quizical game invited me to stretch my current knowledge of creating React Apps as well as understanding fundamental techniques the React enviroment provides. For example, I learned:
 
